@@ -1,2 +1,2 @@
 # TOYAI
-IA to analyse fencing match
+IA to detect retinal problem
